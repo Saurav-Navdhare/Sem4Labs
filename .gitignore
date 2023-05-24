@@ -1,0 +1,7 @@
+*.ppt
+*.pptx
+*.json
+*.env
+*.pdf
+node_modules/
+DBMS_LAB/
